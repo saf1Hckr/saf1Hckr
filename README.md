@@ -1,28 +1,16 @@
+# 🔹 Aspiring SOC Analyst | Cybersecurity Enthusiast 🔹
 
+Passionate about **threat detection, incident response, and network security**, I am actively building my skills in **SOC operations, SIEM tools, and threat intelligence**. Currently completing the **Google Cybersecurity Certification** and **SOC Analyst training on TryHackMe** to strengthen my knowledge.  
 
-#  👏 Hello, I am Mubashirul Islam 
+## 🔐 Learning:
+- SIEM  
+- IDS/IPS  
+- Log analysis  
+- Python for automation  
 
-## 🧑‍💻 Software Engineer
+## 📂 Exploring:
+- Security tools (Splunk, WireShark)
+- Threat hunting  
+- Cloud security (AWS)
 
-## 📱 iOS App Design and Development 
-
-## 🔐 Cyber Security
-
-## 📊 Database Management
-###
-
-🚀 Looking forward to start an internship.  
-
-🎭 Love to work as a backend 
-
-🏆 Won Hackathon on Best AI Project. First Hackathon and First win
-
-📍Want to do a P.hd in Computer Science and Love teaching profession
-
-
-
-
-<!---
-saf1Hckr/saf1Hckr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 *Always working on security labs like Try Hack Me & Had Built some cybersecurity beginner projects!*
